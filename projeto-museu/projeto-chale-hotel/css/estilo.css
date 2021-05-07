@@ -1,5 +1,8 @@
-/* Estrutura do site
-*/
+/*-- Author Francisco Garcia 2021 --*/
+
+/*-- Início -- */
+/*-- Estrutura do site --*/
+
 * {
 	margin:0;
 	padding: 0;
@@ -88,8 +91,8 @@ a.reserva {
 	float: right;
 }
 
-/* Barra de navegação vertical
-*/
+/*-- Barra de navegação vertical --*/
+
 #menu {
 	margin-top: 15px;
 }
@@ -120,8 +123,8 @@ ul#navegacao a:hover {
 	float: right;
 }
 
-/* Área de conteúdos
-************************/
+/*-- Área de conteúdos --*/
+
 #area-principal {
 	float: left;
 	width: 50%;
@@ -149,8 +152,8 @@ ul#navegacao a:hover {
 }
 
 
-/* Formatações de textos
-*/
+/*-- Formatações de textos --*/
+
 h2 {
 	color: #7d7640;
 	font-size: 1.1em;
@@ -162,8 +165,8 @@ p {
 	margin-bottom: 10px;
 }
 
-/* Formatações da area lateral
-*/
+/*-- Formatações da area lateral --*/
+
 #beneficios li {
 	padding: 8px;
 	border-bottom: 1px solid #f3efcb;
@@ -192,38 +195,4 @@ p {
 	cursor: pointer;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*-- Fim --*/
