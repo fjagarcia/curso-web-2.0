@@ -1,4 +1,7 @@
-/* --- Estrutura do site --- */
+/*-- Author Francisco Garcia --*/
+
+/*-- Início --*/
+/*-- Estrutura do site --*/
 
 body {
 	background: #f4f2ec url(../imagens/fundo.png) repeat-x;
@@ -19,7 +22,7 @@ a:hover {
 	color: #227115;
 }
 
-/* --- Logo --- */
+/*-- Logo --*/
 
 #logo h1 {
 	float: left;
@@ -34,7 +37,7 @@ a:hover {
 }
 
 
-/* --- Barra de navegação --- */
+/*-- Barra de Navegação --*/
 
 header {
 	padding: 15px 0;
@@ -62,7 +65,7 @@ nav ul li a:hover {
 	border-bottom: 1px solid #535858;
 }
 
-/* --- Principal --- */
+/*-- Principal --*/
 
 #conteudo {
 	width: 710px;
@@ -139,7 +142,7 @@ h4 {
 	margin-bottom: 0;
 }
 
-/* --- Rodapé --- */
+/*-- Rodapé --*/
 
 footer {
 	clear: both;
@@ -153,7 +156,7 @@ footer>p a {
 	padding: 2px 10px;
 }
 
-/* --- Formulários --- */
+/*-- Formulários --*/
 
 input {
 	height: 20px;
@@ -182,3 +185,5 @@ fieldset {
 legend {
 	display: none;
 }
+
+/*-- Fim --*/
