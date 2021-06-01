@@ -106,6 +106,13 @@ nav.navbar-transparente {
 	color: #9bf0e1;
 }
 
+#rodape {
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	color: white;
+}
+
 .albuns {
 	padding: 10px 0;
 }
